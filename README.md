@@ -8,7 +8,7 @@ This project addresses the limitations of Manitoba’s current centralized **eCh
 
 ## 🩺 Overview
 
-**eChartManitoba** redefines health record management by providing:
+Blockchain-based **eChartManitoba** redefines health record management by providing:
 - ✅ **Secure, direct digital access** for patients to their health records.
 - ✅ **Dynamic, patient-managed consent** for granting or revoking data access.
 - ✅ **Blockchain-based audit logging** for transparency and accountability.
