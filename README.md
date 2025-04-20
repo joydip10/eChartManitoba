@@ -1,4 +1,4 @@
-# 📖 eChartManitoba
+# 📖 eChartChain
 
 A decentralized, patient-centered **Electronic Health Record (EHR)** system designed for **Manitoba, Canada**, built on **Ethereum blockchain technology** and **smart contracts**, aligned with the **Personal Health Information Act (PHIA)**.
 
@@ -8,7 +8,7 @@ This project addresses the limitations of Manitoba’s current centralized **eCh
 
 ## 🩺 Overview
 
-Blockchain-based **eChartManitoba** redefines health record management by providing:
+Blockchain-based **eChartChain** redefines health record management by providing:
 - ✅ **Secure, direct digital access** for patients to their health records.
 - ✅ **Dynamic, patient-managed consent** for granting or revoking data access.
 - ✅ **Blockchain-based audit logging** for transparency and accountability.
@@ -43,7 +43,7 @@ Blockchain-based **eChartManitoba** redefines health record management by provid
 
 ![Proposed Architecture](architecture.jpg)
 
-*Figure: Decentralized eChartManitoba system architecture*
+*Figure: Decentralized eChartChain system architecture*
 
 ---
 
