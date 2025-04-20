@@ -32,16 +32,16 @@ Blockchain-based **eChartManitoba** redefines health record management by provid
 ## 🛠️ Technologies
 
 - **Ethereum Blockchain (Solidity)**
+- **REMIX**
 - **Smart Contracts**
 - **Web3.js**
 - **IPFS (optional for off-chain encrypted data storage)**
-- **React / HTML & JS (for frontend demo)**
 
 ---
 
 ## 📸 System Architecture
 
-![Proposed Architecture](Figures/architecture.jpg)
+![Proposed Architecture](architecture.jpg)
 
 *Figure: Decentralized eChartManitoba system architecture*
 
@@ -52,7 +52,6 @@ Blockchain-based **eChartManitoba** redefines health record management by provid
 This system is carefully designed to align with:
 - **Personal Health Information Act (PHIA) — Manitoba**
 - **PIPEDA — Canada**
-- General blockchain security best practices in healthcare
 
 ---
 
